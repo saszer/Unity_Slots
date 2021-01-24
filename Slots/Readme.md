@@ -15,3 +15,7 @@ On ItemHandler.cs On the Item there are several events which can be called.
 
 
 Fits to Slot Size(localtransform reset to oneoneone)
+
+
+sz.sahaj
+www.embracingearth.space
